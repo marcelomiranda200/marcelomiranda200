@@ -19,9 +19,6 @@
 </div>
 
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomiranda200)](https://github.com/marcelomiranda200/github-readme-stats)
-
 
 
 ## Contacts:
