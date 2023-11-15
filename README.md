@@ -4,5 +4,5 @@
 
 📫 You can find me on LinkedIn https://www.linkedin.com/in/marcelomiranda200/
 
-(https://github-readme-stats.vercel.app/api?username=marcelomiranda200)
+[![Marcelo Augusto de Miranda's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/marcelomiranda200/github-readme-stats)
  
