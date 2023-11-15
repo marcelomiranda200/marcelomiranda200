@@ -5,5 +5,4 @@
 📫 You can find me on LinkedIn https://www.linkedin.com/in/marcelomiranda200/
 
 
-![Marcelo Augusto de Miranda's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelomiranda200&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomiranda200&hide_progress=true)
- 
+![Marcelo Augusto de Miranda's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelomiranda200&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomiranda200)](https://github.com/marcelomiranda200/github-readme-stats)
