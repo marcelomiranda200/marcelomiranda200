@@ -2,6 +2,9 @@
 <a href="https://imgbox.com/9rhDCKcL" target="_blank"><img src="https://thumbs2.imgbox.com/34/1f/9rhDCKcL_t.png" alt="image host" width="250" height="250"/></a>
 
 
+
+👀 I'm 25 years old and currently a student in the software development field, with a strong passion for technology, astronomy, the financial market, and foreign languages. I hold a background in Hardware, Networks, and Systems, and I am currently pursuing studies in English and Systems Analysis and Development. I am seeking an opportunity for a junior developer or intern position. I am dedicated to continually enhancing my technical and personal skills to contribute to challenging projects and advance professionally. I am proactive and possess a high learning capacity. I look forward to the opportunity to share my knowledge and dedication as part of a team.
+
 🌱 I’m currently learning Java, DevOps, and Cloud technologies.
 
 📫 You can find me on https://www.linkedin.com/in/marcelomiranda200/
