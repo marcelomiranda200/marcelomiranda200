@@ -31,4 +31,4 @@
 
 
 
-![Snake animation](https://github.com/marcelomiranda200/marcelomiranda200/blob/output/github-contribution-grid-snake.svg)
+
