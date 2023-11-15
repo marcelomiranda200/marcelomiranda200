@@ -14,9 +14,9 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>     <img loading="lazy" src="https://camo.githubusercontent.com/865b06a76c7a9ee447e09aff240ab5035bf68683994189c310b35f13790878f8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d706c61696e2d776f72646d61726b2e737667" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" width="40" height="40"/>   <img loading="lazy" src="https://camo.githubusercontent.com/fc836983ed18b80caef906c8f1593bcfd4f5c8c587f51a911b1cb4d657a9588b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2d776f72646d61726b2e737667" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>   <img loading="lazy" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" width="40" height="40"/>    <img loading="lazy" src="https://camo.githubusercontent.com/10ec7f29ac664e605b550b6efbfa8b853fdd85c69630c8bbfce991ce210a444c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" width="40" height="40"/> 
 
 
-<img loading="lazy" src="https://pics.freeicons.io/uploads/icons/png/3361294291667973814-512.png" width="40" height="40"/> 
+<img loading="lazy" src="https://banner2.cleanpng.com/20180815/elf/kisspng-mobile-cloud-computing-cloud-storage-cloud-computi-openstack-infofaces-infofaces-5b74f5e7d71461.761889431534391783881.jpg" width="40" height="40"/> 
 
-<img loading="lazy" src="https://logowik.com/content/uploads/images/jenkins8460.jpg" width="40" height="40"/> 
+<img loading="lazy" src="https://www.vhv.rs/dpng/d/300-3007624_jenkins-hd-png-download.png" width="40" height="40"/> 
 
 
 
