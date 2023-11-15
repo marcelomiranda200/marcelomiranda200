@@ -1,5 +1,7 @@
 # 👩‍💻 Hi, I’m Marcelo 👩‍💻
 
+<img loading="lazy" src="https://imgbox.com/9rhDCKcL" width="40" height="40"/>
+
 🌱 I’m currently learning Java, DevOps, and Cloud technologies.
 
 📫 You can find me on https://www.linkedin.com/in/marcelomiranda200/
