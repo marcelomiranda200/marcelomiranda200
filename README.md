@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Java, DevOps, and Cloud technologies.
 
-📫 You can find me on [LinkedIn](https://www.linkedin.com/in/marcelomiranda200/)
+📫 You can find me on https://www.linkedin.com/in/marcelomiranda200/
 
 ## 🛠️ Hard Skills 🛠️
 
@@ -18,3 +18,13 @@
 ![Marcelo Augusto de Miranda's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelomiranda200&show_icons=true&theme=radical)
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomiranda200)](https://github.com/marcelomiranda200/github-readme-stats)
+
+
+
+## Contacts:
+
+<div>
+<a href="https://www.instagram.com/marcelomiranda200/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "marceloaugustodem@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcelomiranda200/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
