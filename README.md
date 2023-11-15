@@ -1,5 +1,5 @@
 # 👩‍💻 Hi, I’m Marcelo 👩‍💻
-<a href="https://imgbox.com/9rhDCKcL" target="_blank"><img src="https://thumbs2.imgbox.com/34/1f/9rhDCKcL_t.png" alt="image host"/></a>
+<a href="https://imgbox.com/9rhDCKcL" target="_blank"><img src="https://thumbs2.imgbox.com/34/1f/9rhDCKcL_t.png" alt="image host" width="40" height="40"/></a>
 <img loading="lazy" src="https://imgbox.com/9rhDCKcL" width="40" height="40"/>
 
 🌱 I’m currently learning Java, DevOps, and Cloud technologies.
