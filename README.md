@@ -4,4 +4,5 @@
 
 📫 You can find me on LinkedIn https://www.linkedin.com/in/marcelomiranda200/
 
+(https://github-readme-stats.vercel.app/api?username=marcelomiranda200)
  
